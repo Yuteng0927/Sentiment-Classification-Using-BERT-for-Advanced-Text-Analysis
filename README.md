@@ -6,8 +6,9 @@
 ## Features
 - BERT Model: Uses pre-trained BERT embeddings for text representation, allowing the model to capture the context and semantic meaning in movie reviews.
 - Sentiment Classification: Classifies movie reviews into positive or negative sentiments based on the textual content.
-![image](https://github.com/Yuteng0927/Deep-Learning-Project/blob/main/Image/Data_Visualization.png)
-![image](https://github.com/Yuteng0927/Deep-Learning-Project/blob/main/Image/Data_Visualization.png)
+- https://github.com/Yuteng0927/Sentiment-Classification-Using-BERT-for-Advanced-Text-Analysis/blob/main/Images/Negative%20review.png
+![image]([https://github.com/Yuteng0927/Sentiment-Classification-Using-BERT-for-Advanced-Text-Analysis/blob/main/Images/Negative%20review.png])
+![image]([(https://github.com/Yuteng0927/Sentiment-Classification-Using-BERT-for-Advanced-Text-Analysis/blob/main/Images/Positive%20review.png)])
 - IMDB Dataset: Trains on a large dataset of 50,000 movie reviews for robust model performance.
 - Evaluation Metrics: Implements accuracy, precision, recall, and F1-score for thorough performance evaluation.
 
